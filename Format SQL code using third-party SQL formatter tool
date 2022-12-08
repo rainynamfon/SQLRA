@@ -11,4 +11,4 @@ ApexSQL – this profile provides the best formatting style by ApexSQL opinion
 Compact – all spacing options are unchecked, and indentions options set to 0 (zero) space for a query where the SQL code looks dense
 Extended – Spaces and empty lines are added before/after every statement. This profile is opposite of the Compact profile
 MSDN SQL BOL – mimic the style from the MSDN resource site
-These four formatting profiles among the rest of ApexSQL Refactor formatting options are located under the Options window:
+These four formatting profiles among the rest of ApexSQL Refactor formatting options are located under the Options window:.
