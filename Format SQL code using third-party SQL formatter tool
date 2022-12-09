@@ -1,4 +1,4 @@
-Format SQL code using third-party SQL formatter tool
+Format SQL code using third-party SQL formatter tool.
 ApexSQL Refactor is SSMS and Visual Studio add-in for format SQL code. ApexSQL Refactor provides over 200 formatting options that can be used to beautify a SQL code. In this part of the article, how to create a formatting profile and how to use some of the ApexSQL Refactor formatting options will be explained. Also, it will be shown how to format SQL code in a query editor using formatting profiles.
 
 Besides formatting SQL code in a query editor directly, ApexSQL Refactor has features that can format code base SQL objects like stored procedures, functions, views and SQL scripts in batches. More about those formatting features can be found on the Beautify your SQL code using SQL formatter features page.
